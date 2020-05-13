@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Udemy Courses\C++ Tutorias\Sort Algorithms\merge sort\Project1\Source.cpp(76,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Udemy Courses\C++ Tutorias\Sort Algorithms\merge sort\Project1\Source.cpp(159,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Project1.vcxproj -> D:\Udemy Courses\C++ Tutorias\Sort Algorithms\merge sort\Debug\Project1.exe
